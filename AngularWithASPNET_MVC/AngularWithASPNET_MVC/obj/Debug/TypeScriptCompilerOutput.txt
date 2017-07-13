@@ -226,3 +226,15 @@ C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AngularWithASPNET_MVC\Angula
 C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AngularWithASPNET_MVC\AngularWithASPNET_MVC\main.js.map
 C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.spec.js
 C:\Users\ASUS\Documents\Visual Studio 2017\Projects\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.spec.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\ts\service\service.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\ts\service\service.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\ts\corebody\corebody.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\ts\corebody\corebody.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.module.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.module.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\main.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\main.js.map
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.spec.js
+C:\Users\ASUS\Desktop\gbProjects\project\AngularWithASPNET_MVC\AngularWithASPNET_MVC\app\app.component.spec.js.map
