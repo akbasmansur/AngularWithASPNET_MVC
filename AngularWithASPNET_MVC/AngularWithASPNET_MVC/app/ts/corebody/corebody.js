@@ -11,15 +11,29 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var service_1 = require("../service/service");
+var MyData = (function () {
+    function MyData() {
+    }
+    return MyData;
+}());
+exports.MyData = MyData;
 var CoreComponent = (function () {
     function CoreComponent(productService) {
         this.productService = productService;
-        this.products = null;
+        this.counter = 0;
+        this.product = [];
     }
     CoreComponent.prototype.ngOnInit = function () {
         var _this = this;
         this.productService.getProduct()
             .subscribe(function (resData) { return _this.products = resData; });
+    };
+    CoreComponent.prototype.incCounter = function () {
+        this.counter++;
+    };
+    CoreComponent.prototype.getProduct = function (pro) {
+        this.product.push(pro);
+        console.log(pro);
     };
     return CoreComponent;
 }());

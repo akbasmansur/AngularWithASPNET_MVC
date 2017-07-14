@@ -8,14 +8,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">E-Ticaret</a>
+                <a class="navbar-brand" href="/">E-Ticaret</a>
             </div>
 
             <div class="collapse navbar-collapse" id="navbar-collapse-2">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a class="btn btn-default btn-outline btn-circle">
-                            Sepetim<span class="glyphicon glyphicon-shopping-cart"><b>1</b></span>
+                            Sepetim<span class="glyphicon glyphicon-shopping-cart"><b style="color:firebrick">{{counter}}</b></span>
                         </a>
                     </li>
                 </ul>
@@ -45,11 +45,14 @@
                             </p>
                         </div>
                         <div class="col-xs-12 col-md-6">
-                            <a class="btn btn-success" href="#">Sepete ekle</a>
+                            <a class="btn btn-success" (click)="getProduct(product)">Sepete ekle</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!--<ul *ngFor="let ewq of product">
+        <li>{{ewq}}</li>
+    </ul>-->
 </div>
